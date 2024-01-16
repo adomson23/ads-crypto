@@ -1,0 +1,517 @@
+@media (max-width: 625px) {
+    .container {
+        .nogo {
+            margin-right: 10px;
+        }
+    }
+}
+@media (max-width: 609px) {
+    .container {
+        .signup {
+            margin-left: 40px;
+        }
+    }
+}
+@media (max-width: 589px) {
+    .container {
+        .signup {
+            margin-left: 20px;
+        }
+    }
+}
+@media (max-width: 610px) {
+    .container {
+        .sell {
+            font-size: 40px;
+            background-position-y: 39px; background-position-x: 170px; background-size: 50px;
+        }
+    max-width: none;
+    }
+}
+@media (max-width: 587px) {
+    .container {
+        .nogo {
+            max-width: 403px; max-height: 230px;
+            margin-right: 61px; margin-top: 10px; margin-left: 0px;
+        }
+        .go {font-size: 12px;}
+        .sell {
+            font-size: 35px;
+            background-position-y: 39px; background-position-x: 150px; background-size: 40px;
+        }
+        .yahz {  margin-left: 4px; 
+            margin-top: 260px;
+            max-width: 400px;
+            height: 182px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 { margin-top: 5px; margin-left: 10px;
+            width: 91px;
+            height: 170px;   
+        }
+        .yanehz2 {
+            margin: -175px 18px 12px 107px;
+        }
+        .yanehz3 {
+            margin: -182px 18px 12px 205px;
+        }
+        .yanehz4 { 
+            margin: -182px 10px 12px 302px;
+        }
+        .yanehz1p,
+        .yanehz2p,
+        .yanehz3p,
+        .yanehz4p { font-size: 11px;
+            margin: 100px 30px 10px 7px;
+        }
+        .yanehz1p1,
+        .yanehz2p2,
+        .yanehz3p3,
+        .yanehz4p4 {font-size: 12px;
+            margin: 125px 14px 0px 20px;
+        }
+        .yanehz3p3,
+        .yanehz4p4 {
+            margin-left: 30px;
+        }
+        .ale,
+        .ale2,
+        .ale3,
+        .ale4 { padding: 1px 5px 5px 5px;
+            margin: 103px 0px 58px -23px;
+            font-size: 6px;
+        }
+        .podsvech,
+        .podsvech2,
+        .podsvech3,
+        .podsvech4  { margin: 100px -98px 0px -88px;
+            font-size: 14px;
+        }
+    }
+}
+@media (max-width: 579px) {
+    .container {
+        .signup {
+            margin-left: 0px;
+        }
+    }
+}
+@media (max-width: 559px) {
+    .container {
+        .signup {
+            margin-left: -20px;
+        }
+    }
+}
+@media (max-width: 558px) {
+    .container {
+        .nogo {
+            margin-right: 42px;
+        }
+    }
+}
+@media (max-width: 546px) {
+    .container {
+        .nogo {
+            margin-right: 31px;
+        }
+    }
+}
+@media (max-width: 539px) {
+    .container {
+        .nogo {
+            margin-right: 25px; 
+        }
+        .signup {
+            margin-left: -40px;
+        }
+    }
+}
+@media (max-width: 536px) {
+    .container {
+        .nogo {
+            margin-right: 20px;
+        }
+    }
+}
+@media (max-width: 533px) {
+    .container {
+        .nogo {
+            margin-right: 18px;
+        }
+    }
+}
+@media (max-width: 528px) {
+    .container {
+        .nogo {
+            margin-right: 12px;
+        }
+    }
+}
+@media (max-width: 521px) {
+    .container {
+        .nogo {
+            margin-right: 5px;
+        }
+        .signup {
+            margin-left: -60px;
+        }
+    }
+}
+@media (max-width: 513px) {
+    .container {
+        .nogo {
+            margin-right: 0px;
+        }
+    }
+}
+@media (max-width: 502px) {
+    .container {
+        .nogo {
+            margin-right: -13px;
+        }
+    }
+}
+@media (max-width: 499px) {
+    .container {
+        .signup {
+            margin-left: -80px;
+        }
+    }
+}
+@media (max-width: 492px) {
+    .container {
+        .nogo {
+            margin-right: -24px;
+        }
+    }
+}
+@media (max-width: 482px) {
+    .container {
+        .nogo {
+            margin-right: -34px;
+        }
+    }
+}
+@media (max-width: 479px) {
+    .container {
+        .signup {
+            margin-left: -100px;
+        }
+    }
+}
+@media (max-width: 472px) {
+    .container {
+        .nogo { max-width: 391px;
+            margin-right: -23px;
+        }
+        .yahz {  margin-left: 3px; margin-top: 265px;
+            max-width: 388px;
+            height: 180px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 { margin-top: 5px; margin-left: 10px;
+            width: 86px;
+            height: 168px;   
+        }
+        .yanehz2 {
+            margin: -174px 18px 12px 105px;
+        }
+        .yanehz3 {
+            margin: -180px 18px 12px 200px;
+        }
+        .yanehz4 { 
+            margin: -180px 10px 12px 295px;
+        }
+        .yanehz1p,
+        .yanehz2p,
+        .yanehz3p,
+        .yanehz4p { font-size: 10px;
+            margin: 100px 30px 10px 7px;
+        }
+        .yanehz1p1,
+        .yanehz2p2,
+        .yanehz3p3,
+        .yanehz4p4 {font-size: 12px;
+            margin: 123px 14px 0px 24px;
+        }
+        .yanehz3p3,
+        .yanehz4p4 {
+            margin-left: 33px;
+        }
+        .ale,
+        .ale2,
+        .ale3,
+        .ale4 { padding: 1px 5px 5px 5px;
+            margin: 103px 0px 57px -26px;
+            font-size: 5px;
+        }
+        .podsvech,
+        .podsvech2,
+        .podsvech3,
+        .podsvech4  { margin: 100px -98px 0px -83px;
+            font-size: 13px;
+        }
+    }
+}
+@media (max-width: 459px) {
+    .container {
+        .nogo {
+            margin-right: -36px;
+        }
+        .signup {
+            margin-left: -120px;
+        }
+    }
+}
+@media (max-width: 447px) {
+    .container {
+        .sell {
+            font-size: 30px;
+            background-position-y: 33px; background-position-x: 125px; background-size: 35px;
+        }
+        .nogo {
+            margin-right: -49px;
+        }
+    }
+}
+@media (max-width: 425px) {
+    .container {
+        .nogo {
+            margin-right: -74px;
+        }
+    }
+}
+@media (max-width: 409px) {
+    .container {
+        .sell {
+            font-size: 25px; background-size: 20px; background-position-x: 110px;
+        }
+        .go {
+            font-size: 12px;
+        }
+        .nogo {
+            max-width: 343px; /* ma-left 30px */
+            margin-right: 40px;
+        }
+        }
+}
+@media (max-width: 438px) {
+    .container {
+        .nogo {
+            margin-right: -59px;
+        }
+    }
+}
+@media (max-width: 439px) {
+    .container {
+        .signup {
+            margin-left: -140px;
+        }
+    }
+}
+@media (max-width: 436px) {
+    .container {
+        .nogo {
+            margin-right: -60px;
+        }
+    }
+}
+@media (max-width: 419px) {
+    .container {
+        .signup {
+            margin-left: -160px;
+        }
+    }
+}
+@media (max-width: 399px) {
+    .container {
+        .signup {
+            margin-left: -180px;
+        }
+    }
+}
+@media (max-width: 387px) {
+    .container {
+        .nogo {
+            margin-right: -51px;
+        }
+    }
+}
+@media (max-width: 373px) {
+    .container {
+        .sell {
+            font-size: 23px; background-size: 20px; background-position-x: 100px; background-position-y: 30px;
+        }
+        .started {
+            font-size: 12px;
+        }
+    }
+}
+@media (max-width: 379px) {
+    .container {
+        .signup {
+            margin-left: -200px;
+        }
+    }
+}
+@media (max-width: 368px) {
+    .container {
+        .yahz {
+            margin-top: 260px;
+        }
+    }
+}
+@media (max-width: 359px) {
+    .container {
+        .signup {
+            margin-left: -220px;
+        }
+    }
+}
+@media (max-width: 357px) {
+    .container {
+        .sell {
+            font-size: 20px; background-size: 15px; background-position-x: 85px; background-position-y: 28px;
+        }
+        .nogo {
+            margin-right: -82px;
+        }
+        .started {
+            font-size: 11px;
+            padding: 7px 21px 8px 20px;
+        }
+}
+}
+@media (max-width: 348px) {
+    .container {
+        .sell {
+            margin-top: 28px;
+        }
+        .signup { 
+            margin-top: -24px; margin-left: -50px; margin-right: 5px;
+        }
+        .login { 
+            margin-left:  0px; margin-top: -15px;
+        }
+        .nogo { 
+            max-width: 284px; margin-top: -145px; max-height: 160px;
+            margin-right: -41px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+        }
+        .yahz {  margin-left: 3px;
+            margin-top: 200px;
+            max-width: 285px;
+            height: 165px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 { margin-top: 5px; margin-left: 10px;
+            width: 63px;
+            height: 155px;   
+        }
+        .yanehz2 {
+            margin: -161px 18px 12px 78px;
+        }
+        .yanehz3 {
+            margin: -168px 18px 12px 146px;
+        }
+        .yanehz4 { 
+            margin: -168px 10px 12px 214px;
+        }
+        .yanehz1p,
+        .yanehz2p,
+        .yanehz3p,
+        .yanehz4p { font-size: 7px;
+            margin: 100px 28px 10px 4px;
+        }
+        .yanehz1p1,
+        .yanehz2p2,
+        .yanehz3p3,
+        .yanehz4p4 {font-size: 8px;
+            margin: 120px 14px 0px 42px;
+        }
+        .yanehz3p3,
+        .yanehz4p4 {
+            margin-left: 49px;
+        }
+        .ale,
+        .ale2,
+        .ale3,
+        .ale4 { padding: 1px 5px 5px 5px;
+            margin: 145px 0px 3px -48px;
+            font-size: 4px;
+        }
+        .podsvech,
+        .podsvech2,
+        .podsvech3,
+        .podsvech4  { margin: 103px -98px 0px -68px;
+            font-size: 9px;
+        }
+        .go {
+            font-size: 11px;
+        }
+    }
+}
+
+@media (max-width: 333px) {
+    .container {
+        .sell {
+            font-size: 15px; background-position-x: 65px; background-size: 10px; background-position-y: 21px;
+        }
+    }
+}
+@media (max-width: 315px) {
+    .container {
+        .started {
+            font-size: 11px;
+            padding: 7px 10px 8px 10px;
+        }
+        .nogo {
+            max-height: 190px; margin-top: -145px; max-height: 170px;
+            margin-right: -100px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+        }
+    }
+}
+@media (max-width: 303px) {
+    .container {
+        .signup { 
+            font-size: 13px;
+            margin: -55px 0px 0px 40px;
+        }
+        .login {
+            font-size: 13px;
+            margin-left: 135px; margin-right: 0px; margin-top: -85px;
+        }
+        .sell {
+            margin-top:  0px;
+        }
+    }
+}
+@media (max-width: 296px) {
+    .container {
+        .nogo {
+            max-height: 180px; margin-top: -145px; max-height: 170px;
+            margin-right: -150px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+        }
+    }
+}
+@media (max-width: 274px) {
+    .container {
+        .sell {
+            background-position-x: 65px; background-size: 10px; background-position-y: 38px;
+        }
+    }
+}
+@media (max-width: 277px) {
+    .container {
+        .nogo {
+            max-height: 190px; margin-top: -145px; max-height: 170px;
+            margin-right: -167px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+        }
+    }
+}

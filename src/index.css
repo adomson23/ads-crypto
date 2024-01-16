@@ -1,0 +1,1205 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Lato&display=swap');
+body {
+    background: #000116;
+    font-family: 'Lato';
+}
+.container {
+    height: 100%;
+    margin: 0px auto;
+    padding: 0px 20px;
+}
+@media (max-height: 1380px) {
+    .container {
+        .nogo {
+            margin-left: 400px;
+            position: absolute;     
+        }
+        .sell {
+            margin-top: 90px;
+        }
+        .yahz {
+            margin-top: 180px;
+        }
+}
+}
+@media (max-width:1920px) {
+    .container {
+        .nogo {
+            margin-left: 350px;
+        }
+    }
+}
+@media (max-width:1274px) {
+    .container {
+        .signup {
+            margin-left: 210px;
+        }
+        .nogo {
+            margin-right: -65px;
+        }
+    }
+}
+@media (max-width:1250px) {
+    .container {
+        .nogo {
+            width: 647px;
+            height: 274px;
+        }
+        .yahz {
+            width: 1160px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 {
+            max-width: 275px;
+            max-height: 224px;   
+    }
+        .yanehz2 {
+            margin: -230px 18px 12px 295px;
+        }
+        .yanehz3 {
+            margin: -235px 18px 12px 585px;
+        }
+        .yanehz4 {
+            margin: -235px 10px 12px 875px;
+        }
+    }
+}
+@media (max-width:1200px) {
+    .container { 
+        .nogo {
+        max-width: 580px; max-height: 260px; margin-right: 0px; margin-top: -200px;
+    }
+    .supr {
+        font-size: 35px;
+}
+    .about,
+    .about1,
+    .about2,
+    .about3 {
+        font-size: 15px;
+        margin-left: 10px;
+    }
+    .sell {
+        font-size: 50px;
+    }
+    .go {
+        font-size: 15px;
+    }
+    .started {
+        padding: 10px 40px 10px 40px;
+    }
+    .signup {margin-left: 100px; margin-right: 20px;}
+    .login {margin-left: 0px;}
+    .yahz {
+        max-width: 1110px;
+        height: 230px;
+    }
+    .yanehz1,
+    .yanehz2,
+    .yanehz3,
+    .yanehz4 {
+        width: 260px;
+        height: 210px;   
+    }
+    .yanehz2 {
+        margin: -215px 18px 12px 285px;
+    }
+    .yanehz3 {
+        margin: -222px 18px 12px 560px;
+    }
+    .yanehz4 {
+        margin: -220px 10px 12px 835px;
+    }
+    .ale,
+    .ale2,
+    .ale3,
+    .ale4 {
+        margin: 130px 0px 56px 20px;
+    }
+    .yanehz1p,
+    .yanehz2p,
+    .yanehz3p,
+    .yanehz4p {
+        font-size: 20px;
+    }
+
+    }
+}
+@media (max-width:1150px) {
+    .container { 
+        .nogo {
+            max-width: 580px; max-height: 260px; margin-right: -50px; margin-top: -200px;
+        }
+    }
+}
+@media (max-width:1100px) {
+    .container { 
+        .nogo {
+        max-width: 580px; max-height: 260px; margin-right: -100px; margin-top: -200px;
+        }
+    }
+}
+@media (max-width:1050px) {
+    .container { 
+        .nogo {
+        max-width: 580px; max-height: 260px; margin-right: -150px; margin-top: -200px;
+        }
+    }
+}
+@media (max-width: 992px) {
+    .container { 
+        .sell {
+            font-size: 47px;
+            background-position-x: 195px; background-size: 60px;
+        }
+        .supr {
+            font-size: 30px;
+        }
+        .yahz {
+            max-width: 970px;
+            height: 230px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 {
+            width: 225px;
+            height: 210px;   
+        }
+        .yanehz2 {
+            margin: -215px 18px 12px 250px;
+        }
+        .yanehz3 {
+            margin: -222px 18px 12px 490px;
+        }
+        .yanehz4 {
+            margin: -222px 10px 12px 730px;
+        }
+        .yanehz1p,
+        .yanehz2p,
+        .yanehz3p,
+        .yanehz4p {
+            margin: 100px 30px 10px 15px;
+        }
+        .about,
+        .about1,
+        .about2,
+        .about3 { margin: 5px 10px 0px 0px;
+            font-size: 14px;
+        }
+        .signup,
+        .login {
+            padding: 10px 18px 10px 19px;
+        }
+        .signup {margin-left: 20px; margin-right: 10px;}
+        .login {margin-left: 0px;}
+        .started,
+        .signup,
+        .login {
+            font-size: 14px;
+        }
+        .go {
+            font-size: 13px;
+        }
+        .nogo {
+        max-width: 500px; max-height: 240px; margin-right: -80px; margin-top: -180px;
+    }
+    }
+}
+@media (max-width: 933px) {
+    .container {
+    .nogo {
+        max-width: 500px; max-height: 240px; margin-right: -130px; margin-top: -180px;
+        }
+    }
+}
+@media (max-width:855px) {
+    .container {
+        .supr {
+            margin-right: 25px;
+        }
+        .nogo {
+            margin-right: -260px; margin-top: -180px;
+        }
+        .sell {
+            background-size: 60px;
+        }
+        .about,
+        .about1,
+        .about2,
+        .about3 { margin: 5px -2px 0px 0px;
+            font-size: 14px;
+        }
+    }
+}
+@media (max-width: 835px) {
+    .container {
+        .yahz {
+            max-width: 905px;
+            height: 210px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 { 
+            width: 210px;
+            height: 190px;   
+        }
+        .yanehz2 {
+            margin: -196px 18px 12px 235px;
+        }
+        .yanehz3 {
+            margin: -202px 18px 12px 460px;
+        }
+        .yanehz4 {
+            margin: -202px 10px 12px 685px;
+        }
+        .yanehz1p,
+        .yanehz2p,
+        .yanehz3p,
+        .yanehz4p { font-size: 18px;
+            margin: 100px 30px 10px 15px;
+        }
+        .yanehz1p1,
+        .yanehz2p2,
+        .yanehz3p3,
+        .yanehz4p4 {font-size: 18px;
+            margin: 135px 20px 0px -5px;
+        }
+        .yanehz3p3,
+        .yanehz4p4 {
+            margin-left: 10px;
+        }
+        .ale,
+        .ale2,
+        .ale3,
+        .ale4 { padding: 1px 10px 5px 15px;
+            margin: 130px 0px 40px 10px;
+            font-size: 14px;
+        }
+        .podsvech,
+        .podsvech2,
+        .podsvech3,
+        .podsvech4  { margin: 97px -108px 0px -118px;
+            font-size: 22px;
+        }
+    }
+}
+@media (max-width:768px) {
+    .container {
+        .supr,
+        .about,
+        .about1,
+        .about2,
+        .about3 {
+            visibility: hidden;
+        }
+        .burger {display: flex; margin: -40px 0px -38px 0px; }
+        .signup {
+            margin: 0px 0px 0px 130px;
+        }
+        .login {
+            margin-left: 10px; margin-right: 0px;
+        }
+        .nogo { 
+            margin-left: -262px; margin-top: 100px; 
+        }
+        .sell {
+            font-size: 45px; background-size: 55px; background-position-x: 185px;
+        }
+        .yahz {  margin-left: 4px;
+            margin-top: 350px;  margin-bottom: 20px;
+            max-width: 492px;
+            height: 182px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 { margin-top: 5px; margin-left: 10px;
+            width: 112px;
+            height: 170px;   
+        }
+        .yanehz2 {
+            margin: -175px 18px 12px 130px;
+        }
+        .yanehz3 {
+            margin: -182px 18px 12px 250px;
+        }
+        .yanehz4 { 
+            margin: -182px 10px 12px 370px;
+        }
+        .yanehz1p,
+        .yanehz2p,
+        .yanehz3p,
+        .yanehz4p { font-size: 14px;
+            margin: 100px 30px 10px 7px;
+        }
+        .yanehz1p1,
+        .yanehz2p2,
+        .yanehz3p3,
+        .yanehz4p4 {font-size: 14px;
+            margin: 125px 20px 0px 10px;
+        }
+        .yanehz3p3,
+        .yanehz4p4 {
+            margin-left: 20px;
+        }
+        .ale,
+        .ale2,
+        .ale3,
+        .ale4 { padding: 1px 6px 5px 6px;
+            margin: 104px 0px 54px -25px;
+            font-size: 8px;
+        }
+        .podsvech,
+        .podsvech2,
+        .podsvech3,
+        .podsvech4  { margin: 100px -98px 0px -100px;
+            font-size: 16px;
+        }
+        max-width: none;
+    }
+}
+@media (max-width: 721px) {
+    .container {
+        .nogo {
+            margin-right: 129px;
+        }
+    }
+}
+@media (max-width:685px) {
+    .container { max-width: 550px;
+    .nogo { margin-right: 50px;}
+    .signup {
+        margin-left: 100px;
+    }
+}
+}
+@media (max-width: 649px) {
+    .container {
+        .signup {
+            margin-left: 80px;
+        }
+    }
+}
+@media (max-width: 629px) {
+    .container {
+        .signup {
+            margin-left: 60px;
+        }
+    }
+}
+@media (max-width: 625px) {
+    .container {
+        .nogo {
+            margin-right: 34px;
+        }
+    }
+}
+@media (max-width: 610px) {
+    .container {
+        .sell {
+            font-size: 40px;
+            background-position-y: 39px; background-position-x: 170px; background-size: 50px;
+        }
+    max-width: none;
+    }
+}
+@media (max-width: 609px) {
+    .container {
+        .signup {
+            margin-left: 40px;
+        }
+    }
+}
+@media (max-width: 589px) {
+    .container {
+        .signup {
+            margin-left: 20px;
+        }
+    }
+}
+@media (max-width: 587px) {
+    .container {
+        .nogo {
+            max-width: 403px; max-height: 230px;
+            margin-right: 87px; margin-top: 10px; margin-left: 0px;
+        }
+        .go {font-size: 12px;}
+        .sell {
+            font-size: 35px;
+            background-position-y: 39px; background-position-x: 150px; background-size: 40px;
+        }
+        .yahz {  margin-left: 4px; 
+            margin-top: 260px;
+            max-width: 400px;
+            height: 182px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 { margin-top: 5px; margin-left: 10px;
+            width: 91px;
+            height: 170px;   
+        }
+        .yanehz2 {
+            margin: -175px 18px 12px 107px;
+        }
+        .yanehz3 {
+            margin: -182px 18px 12px 205px;
+        }
+        .yanehz4 { 
+            margin: -182px 10px 12px 302px;
+        }
+        .yanehz1p,
+        .yanehz2p,
+        .yanehz3p,
+        .yanehz4p { font-size: 11px;
+            margin: 100px 30px 10px 7px;
+        }
+        .yanehz1p1,
+        .yanehz2p2,
+        .yanehz3p3,
+        .yanehz4p4 {font-size: 12px;
+            margin: 125px 14px 0px 20px;
+        }
+        .yanehz3p3,
+        .yanehz4p4 {
+            margin-left: 30px;
+        }
+        .ale,
+        .ale2,
+        .ale3,
+        .ale4 { padding: 1px 5px 5px 5px;
+            margin: 103px 0px 58px -23px;
+            font-size: 6px;
+        }
+        .podsvech,
+        .podsvech2,
+        .podsvech3,
+        .podsvech4  { margin: 100px -98px 0px -88px;
+            font-size: 14px;
+        }
+    }
+}
+@media (max-width: 579px) {
+    .container {
+        .signup {
+            margin-left: 0px;
+        }
+    }
+}
+@media (max-width: 559px) {
+    .container {
+        .signup {
+            margin-left: -20px;
+        }
+    }
+}
+@media (max-width: 558px) {
+    .container {
+        .nogo {
+            margin-right: 57px;
+        }
+    }
+}
+@media (max-width: 546px) {
+    .container {
+        .nogo {
+            margin-right: 47px;
+        }
+    }
+}
+@media (max-width: 539px) {
+    .container {
+        .nogo {
+            margin-right: 45px; 
+        }
+        .signup {
+            margin-left: -40px;
+        }
+    }
+}
+@media (max-width: 536px) {
+    .container {
+        .nogo {
+            margin-right: 37px;
+        }
+    }
+}
+
+@media (max-width: 528px) {
+    .container {
+        .nogo {
+            margin-right: 27px;
+        }
+    }
+}
+@media (max-width: 521px) {
+    .container {
+        .nogo {
+            margin-right: 22px;
+        }
+        .signup {
+            margin-left: -60px;
+        }
+    }
+}
+@media (max-width: 513px) {
+    .container {
+        .nogo {
+            margin-right: 13px;
+        }
+    }
+}
+@media (max-width: 502px) {
+    .container {
+        .nogo {
+            margin-right: 2px;
+        }
+    }
+}
+@media (max-width: 499px) {
+    .container {
+        .signup {
+            margin-left: -80px;
+        }
+    }
+}
+@media (max-width: 492px) {
+    .container {
+        .nogo {
+            margin-right: -9px;
+        }
+    }
+}
+@media (max-width: 482px) {
+    .container {
+        .nogo {
+            margin-right: -19px;
+        }
+    }
+}
+@media (max-width: 479px) {
+    .container {
+        .signup {
+            margin-left: -100px;
+        }
+    }
+}
+@media (max-width: 472px) {
+    .container {
+        .nogo { max-width: 391px;
+            margin-right: -16px;
+        }
+        .yahz {  margin-left: 3px; margin-top: 265px;
+            max-width: 388px;
+            height: 180px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 { margin-top: 5px; margin-left: 10px;
+            width: 86px;
+            height: 168px;   
+        }
+        .yanehz2 {
+            margin: -174px 18px 12px 105px;
+        }
+        .yanehz3 {
+            margin: -180px 18px 12px 200px;
+        }
+        .yanehz4 { 
+            margin: -180px 10px 12px 295px;
+        }
+        .yanehz1p,
+        .yanehz2p,
+        .yanehz3p,
+        .yanehz4p { font-size: 10px;
+            margin: 100px 30px 10px 7px;
+        }
+        .yanehz1p1,
+        .yanehz2p2,
+        .yanehz3p3,
+        .yanehz4p4 {font-size: 12px;
+            margin: 123px 14px 0px 24px;
+        }
+        .yanehz3p3,
+        .yanehz4p4 {
+            margin-left: 33px;
+        }
+        .ale,
+        .ale2,
+        .ale3,
+        .ale4 { padding: 1px 5px 5px 5px;
+            margin: 103px 0px 57px -26px;
+            font-size: 5px;
+        }
+        .podsvech,
+        .podsvech2,
+        .podsvech3,
+        .podsvech4  { margin: 100px -98px 0px -83px;
+            font-size: 13px;
+        }
+    }
+}
+@media (max-width: 459px) {
+    .container {
+        .nogo {
+            margin-right: -31px;
+        }
+        .signup {
+            margin-left: -120px;
+        }
+    }
+}
+@media (max-width: 447px) {
+    .container {
+        .sell {
+            font-size: 30px;
+            background-position-y: 33px; background-position-x: 125px; background-size: 35px;
+        }
+        .nogo {
+            margin-right: -41px;
+        }
+    }
+}
+@media (max-width: 439px) {
+    .container {
+        .signup {
+            margin-left: -140px;
+        }
+    }
+}
+@media (max-width: 438px) {
+    .container {
+        .nogo {
+            margin-right: -58px;
+        }
+    }
+}
+@media (max-width: 436px) {
+    .container {
+        .nogo {
+            margin-right: -50px;
+        }
+    }
+}
+@media (max-width: 425px) {
+    .container {
+        .nogo {
+            margin-right: -61px;
+        }
+    }
+}
+@media (max-width: 419px) {
+    .container {
+        .signup {
+            margin-left: -160px;
+        }
+    }
+}
+@media (max-width: 409px) {
+    .container {
+        .sell {
+            font-size: 25px; background-size: 20px; background-position-x: 110px;
+        }
+        .go {
+            font-size: 12px;
+        }
+        .nogo {
+            margin-right: -81px;
+        }
+        }
+}
+@media (max-width: 399px) {
+    .container {
+        .signup {
+            margin-left: -180px;
+        }
+    }
+}
+@media (max-width: 387px) {
+    .container {
+        .nogo {
+            margin-right: -101px;
+        }
+    }
+}
+@media (max-width: 379px) {
+    .container {
+        .signup {
+            margin-left: -200px;
+        }
+    }
+}
+@media (max-width: 373px) {
+    .container {
+        .sell {
+            font-size: 23px; background-size: 20px; background-position-x: 100px; background-position-y: 30px;
+        }
+        .started {
+            font-size: 12px;
+        }
+    }
+}
+@media (max-width: 368px) {
+    .container {
+        .yahz {
+            margin-top: 260px;
+        }
+    }
+}
+@media (max-width: 359px) {
+    .container {
+        .signup {
+            margin-left: -220px;
+        }
+    }
+}
+@media (max-width: 357px) {
+    .container {
+        .sell {
+            font-size: 20px; background-size: 15px; background-position-x: 85px; background-position-y: 28px;
+        }
+        .nogo {
+            margin-right: -131px;
+        }
+        .started {
+            font-size: 11px;
+            padding: 7px 21px 8px 20px;
+        }
+}
+}
+@media (max-width: 348px) {
+    .container {
+        .sell {
+            margin-top: 28px;
+        }
+        .signup { 
+            margin-top: -24px; margin-left: -50px; margin-right: 5px;
+        }
+        .login { 
+            margin-left:  0px; margin-top: -15px;
+        }
+        .nogo { 
+            max-width: 284px; margin-top: -145px; max-height: 160px;
+            margin-right: -34px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+        }
+        .yahz {  margin-left: 3px;
+            margin-top: 200px;
+            max-width: 285px;
+            height: 165px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 { margin-top: 5px; margin-left: 10px;
+            width: 63px;
+            height: 155px;   
+        }
+        .yanehz2 {
+            margin: -161px 18px 12px 78px;
+        }
+        .yanehz3 {
+            margin: -168px 18px 12px 146px;
+        }
+        .yanehz4 { 
+            margin: -168px 10px 12px 214px;
+        }
+        .yanehz1p,
+        .yanehz2p,
+        .yanehz3p,
+        .yanehz4p { font-size: 7px;
+            margin: 100px 28px 10px 4px;
+        }
+        .yanehz1p1,
+        .yanehz2p2,
+        .yanehz3p3,
+        .yanehz4p4 {font-size: 8px;
+            margin: 120px 14px 0px 42px;
+        }
+        .yanehz3p3,
+        .yanehz4p4 {
+            margin-left: 49px;
+        }
+        .ale,
+        .ale2,
+        .ale3,
+        .ale4 { padding: 1px 5px 5px 5px;
+            margin: 145px 0px 3px -48px;
+            font-size: 4px;
+        }
+        .podsvech,
+        .podsvech2,
+        .podsvech3,
+        .podsvech4  { margin: 103px -98px 0px -68px;
+            font-size: 9px;
+        }
+        .go {
+            font-size: 11px;
+        }
+    }
+}
+
+@media (max-width: 333px) {
+    .container {
+        .sell {
+            font-size: 15px; background-position-x: 65px; background-size: 10px; background-position-y: 21px;
+        }
+    }
+}
+@media (max-width: 315px) {
+    .container {
+        .started {
+            font-size: 11px;
+            padding: 7px 10px 8px 10px;
+        }
+        .nogo {
+            max-height: 190px; margin-top: -145px; max-height: 170px;
+            margin-right: -65px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+        }
+    }
+}
+@media (max-width: 303px) {
+    .container {
+        .signup { 
+            font-size: 13px;
+            margin: -55px 0px 0px 40px;
+        }
+        .login {
+            font-size: 13px;
+            margin-left: 135px; margin-right: 0px; margin-top: -85px;
+        }
+        .sell {
+            margin-top:  0px;
+        }
+    }
+}
+@media (max-width: 296px) {
+    .container {
+        .nogo {
+            max-height: 180px;
+            margin-top: -145px;
+            margin-right: -84px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+        }
+    }
+}
+@media (max-width: 277px) {
+    .container {
+        .nogo {
+            margin-top: -145px;
+            max-height: 170px;
+            margin-right: -104px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+        }
+    }
+}
+@media (max-width: 274px) {
+    .container {
+        .sell {
+            background-position-x: 65px; background-size: 10px; background-position-y: 38px;
+        }
+        .nogo {
+            margin-top: -145px;
+            max-height: 160px;
+            max-width: 220px;
+            margin-right: -45px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+        }
+        .yahz {  margin-left: 3px;
+            margin-top: 200px;
+            max-width: 221px;
+            height: 135px;
+        }
+        .yanehz1,
+        .yanehz2,
+        .yanehz3,
+        .yanehz4 { margin-top: 5px; margin-left: 10px;
+            width: 49px;
+            height: 125px;
+            background-position-y: 16px;
+            background-position-x: 50%;
+            background-size: 65px;
+        }
+        .yanehz2 {
+            margin: -131px 18px 12px 62px;
+        }
+        .yanehz3 {
+            margin: -137px 18px 12px 114px;
+        }
+        .yanehz4 { 
+            margin: -137px 10px 12px 166px;
+        }
+        .yanehz1p,
+        .yanehz2p,
+        .yanehz3p,
+        .yanehz4p { font-size: 5px;
+            margin: 80px 28px 10px 4px;
+        }
+        .yanehz1p1,
+        .yanehz2p2,
+        .yanehz3p3,
+        .yanehz4p4 {font-size: 5px;
+            margin: 95px 14px 0px 55px;
+        }
+        .yanehz3p3,
+        .yanehz4p4 {
+            margin-left: 61px;
+        }
+        .ale,
+        .ale2,
+        .ale3,
+        .ale4 { padding: 1px 5px 5px 5px;
+            margin: 115px 0px 30px -39px;
+            font-size: 3px;
+        }
+        .podsvech,
+        .podsvech2,
+        .podsvech3,
+        .podsvech4  { margin: 83px -98px 0px -60px;
+            font-size: 6px;
+        }
+    }
+}
+.burger {
+    cursor: pointer;
+    display: none;
+    position: relative;
+    z-index: 50;
+    align-items: center;
+    justify-content: flex-end;
+    width: 30px;
+    height: 18px;
+}
+.burger span {
+    height: 2px;
+    width: 100%;
+    transform: scale(1);
+    background-color: #FAF6F2;
+}
+.burger::before, .burger::after {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    background-color: #FAF6F2;
+    transition: all 0.3s ease 0s;
+}
+.burger::before {top: 0;}
+.burger::after {bottom: 0;}
+.burger.active span {transform: scale(0);}
+.burger.active::before {
+    top: 50%;
+    transform: rotate(-45deg) translate(0, -50%);
+}
+.burger.active::after {
+    bottom: 50%;
+    transform: rotate(45deg) translate(0, 50%);
+}
+.supr {
+    display: inline-block;
+    vertical-align: middle;
+    color: #FFF;
+    font-size: 36px;
+    font-weight: 700;
+    margin-left: 0px;
+    margin-right: 43px;
+}
+.about,
+.about1,
+.about2,
+.about3 {
+    display: inline-block; vertical-align: middle;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 0px 10px 0px 10px;
+    margin: 5px 10px 0px 20px;
+}
+.signup { margin: 0px 0px 0px 260px;
+    padding: 13px 18px 12px 19px;
+    display: inline-block;
+    vertical-align: middle;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 10px;
+    background: #2C4EFF;
+}
+.login{
+    margin: 10px 19px 10px 20px;
+    flex-shrink: 0;
+    padding: 13px 18px 12px 20px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 10px;
+    border: 1px solid #FFF;
+    background: #000;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 700;
+}
+.sell {
+    margin-top: 40px; margin-right: 69.76px; margin-bottom: 5px;
+    color: #FFF;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 109%; /* 69.76px */ 
+    background: url(img/Online\ Money\ Transfer.png), 50%; background-repeat: no-repeat;
+    background-position-x: 210px; background-position-y: 45px;
+}
+.go {
+    margin-top: 20px; margin-right: 69.76px; margin-bottom: 25px;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 178%; /* 28.48px */
+}
+.nogo {
+    width: 647px;
+    height: 274px;
+    flex-shrink: 0;
+    margin-top: -200px; margin-right: 0px;
+    border-radius: 10px;
+    border: 2px solid rgba(44, 78, 255, 0.50);
+    background: url(img/7b0a522acd9dda6a9a7be418591275a2.png), lightgray 50% / cover no-repeat;
+    box-shadow: -2px 0px 70px 22px rgba(44, 78, 255, 0.50);
+    float:right;
+}
+.started {
+    margin-top: 15px; margin-right: 69.76px; margin-bottom: 15px;
+    padding: 10px 50px 10px 50px;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 109%; /* 17.44px */
+    border-radius: 10px;
+    background: #2C4EFF;
+}
+.yahz {
+    margin-top: 60px; margin-left: 0px; margin-right: 69.76px; margin-bottom: 10px;
+    padding: 5px 0px 0px 0px;
+    width: 1190px;
+    height: 248px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: rgba(44, 78, 255, 0.16);
+}
+.yanehz1 {
+    margin: 10px 0px 6px 11px; 
+    display: flex;
+    max-width: 280px;
+    max-height: 224px;
+    border-radius: 10px;
+    background: url(img/Bitcoin.png) #010F58 50%; background-repeat: no-repeat;
+    background-position-y: 16px;
+}
+.yanehz1p,
+.yanehz2p,
+.yanehz3p,
+.yanehz4p {
+    margin: 100px 30px 10px 37px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 129%; /* 25.8px */
+    letter-spacing: 1.5px;
+}
+.yanehz1p1,
+.yanehz2p2,
+.yaneh3p3,
+.yaneh4p4 {margin: 140px 20px 0px -15px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 129%; /* 25.8px */
+    letter-spacing: 1.5px;
+}
+.podsvech,
+.podsvech2,
+.podsvech3,
+.podsvech4 {
+    margin: 100px -108px 0px -125px;
+    color: #FFF;
+    font-size: 24px; font-style: normal;
+    font-weight: 800;
+    line-height: 129%;
+    letter-spacing: 1.8px;
+}
+.yanehz3p3,
+.yanehz4p4 {
+    margin: 140px 20px 0px 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 129%; /* 25.8px */
+    letter-spacing: 1.5px;
+}
+.ale,
+.ale2,
+.ale3,
+.ale4 {
+    padding: 1px 10px 5px 15px;
+    margin: 135px 0px 68px 26px;
+    border-radius: 20px; 
+    color: #000;
+    background: #FFC107;
+    font-size: 16px; font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.ale2 {
+    background: #9FA8DA;
+}
+.ale3 {
+    background: #26A69A;
+}
+.ale4 {
+    background: #A85000;
+}
+.yanehz2 {
+    display: flex;
+    margin: -230px 18px 12px 305px;
+    max-width: 280px;
+    max-height: 224px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: url(img/Ethereum.png), #010F58 50%; background-repeat: no-repeat;
+    background-position-y: 16px;
+    background-position-x: 50%;
+}
+.yanehz3 {
+    display: flex;
+    margin: -236px 18px 12px 600px;
+    max-width: 280px;
+    max-height: 224px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: url(img/Tether.png), #010F58 50%; background-repeat: no-repeat;
+    background-position-y: 16px;
+    background-position-x: 50%;
+}
+.yanehz4 {
+    display: flex;
+    margin: -235px 10px 12px 895px;
+    max-width: 280px;
+    max-height: 224px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: url(img/Bitcoin\ \(1\).png), #010F58 50%; background-repeat: no-repeat;
+    background-position-y: 16px;
+    background-position-x: 50%;
+}
+
