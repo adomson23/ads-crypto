@@ -22,7 +22,7 @@
     animation: notactive 0.7s ease;
     transition: 0.7s;
 }
-@media (max-height: 1200px) {
+@media (max-height: 100%) {
     .aboutsik {
         .close {
             border-radius: 35px;

@@ -4,7 +4,6 @@ body {
     font-family: 'Lato';
 }
 .container {
-    height: 100%;
     margin: 0px auto;
     padding: 0px 20px;
 }
@@ -362,16 +361,8 @@ body {
         max-width: none;
     }
 }
-@media (max-width: 721px) {
-    .container {
-        .nogo {
-            margin-right: 129px;
-        }
-    }
-}
 @media (max-width:685px) {
     .container { max-width: 550px;
-    .nogo { margin-right: 50px;}
     .signup {
         margin-left: 100px;
     }
@@ -388,13 +379,6 @@ body {
     .container {
         .signup {
             margin-left: 60px;
-        }
-    }
-}
-@media (max-width: 625px) {
-    .container {
-        .nogo {
-            margin-right: 34px;
         }
     }
 }
@@ -424,8 +408,7 @@ body {
 @media (max-width: 587px) {
     .container {
         .nogo {
-            max-width: 403px; max-height: 230px;
-            margin-right: 87px; margin-top: 10px; margin-left: 0px;
+            max-width: 403px; max-height: 230px;      
         }
         .go {font-size: 12px;}
         .sell {
@@ -433,7 +416,7 @@ body {
             background-position-y: 39px; background-position-x: 150px; background-size: 40px;
         }
         .yahz {  margin-left: 4px; 
-            margin-top: 260px;
+            margin-top: 310px;
             max-width: 400px;
             height: 182px;
         }
@@ -498,66 +481,17 @@ body {
         }
     }
 }
-@media (max-width: 558px) {
-    .container {
-        .nogo {
-            margin-right: 57px;
-        }
-    }
-}
-@media (max-width: 546px) {
-    .container {
-        .nogo {
-            margin-right: 47px;
-        }
-    }
-}
 @media (max-width: 539px) {
     .container {
-        .nogo {
-            margin-right: 45px; 
-        }
         .signup {
             margin-left: -40px;
         }
     }
 }
-@media (max-width: 536px) {
-    .container {
-        .nogo {
-            margin-right: 37px;
-        }
-    }
-}
-
-@media (max-width: 528px) {
-    .container {
-        .nogo {
-            margin-right: 27px;
-        }
-    }
-}
 @media (max-width: 521px) {
     .container {
-        .nogo {
-            margin-right: 22px;
-        }
         .signup {
             margin-left: -60px;
-        }
-    }
-}
-@media (max-width: 513px) {
-    .container {
-        .nogo {
-            margin-right: 13px;
-        }
-    }
-}
-@media (max-width: 502px) {
-    .container {
-        .nogo {
-            margin-right: 2px;
         }
     }
 }
@@ -565,20 +499,6 @@ body {
     .container {
         .signup {
             margin-left: -80px;
-        }
-    }
-}
-@media (max-width: 492px) {
-    .container {
-        .nogo {
-            margin-right: -9px;
-        }
-    }
-}
-@media (max-width: 482px) {
-    .container {
-        .nogo {
-            margin-right: -19px;
         }
     }
 }
@@ -594,7 +514,7 @@ body {
         .nogo { max-width: 391px;
             margin-right: -16px;
         }
-        .yahz {  margin-left: 3px; margin-top: 265px;
+        .yahz {  margin-left: 3px; margin-top: 315px;
             max-width: 388px;
             height: 180px;
         }
@@ -647,9 +567,6 @@ body {
 }
 @media (max-width: 459px) {
     .container {
-        .nogo {
-            margin-right: -31px;
-        }
         .signup {
             margin-left: -120px;
         }
@@ -661,36 +578,12 @@ body {
             font-size: 30px;
             background-position-y: 33px; background-position-x: 125px; background-size: 35px;
         }
-        .nogo {
-            margin-right: -41px;
-        }
     }
 }
 @media (max-width: 439px) {
     .container {
         .signup {
             margin-left: -140px;
-        }
-    }
-}
-@media (max-width: 438px) {
-    .container {
-        .nogo {
-            margin-right: -58px;
-        }
-    }
-}
-@media (max-width: 436px) {
-    .container {
-        .nogo {
-            margin-right: -50px;
-        }
-    }
-}
-@media (max-width: 425px) {
-    .container {
-        .nogo {
-            margin-right: -61px;
         }
     }
 }
@@ -709,22 +602,12 @@ body {
         .go {
             font-size: 12px;
         }
-        .nogo {
-            margin-right: -81px;
-        }
         }
 }
 @media (max-width: 399px) {
     .container {
         .signup {
             margin-left: -180px;
-        }
-    }
-}
-@media (max-width: 387px) {
-    .container {
-        .nogo {
-            margin-right: -101px;
         }
     }
 }
@@ -741,14 +624,7 @@ body {
             font-size: 23px; background-size: 20px; background-position-x: 100px; background-position-y: 30px;
         }
         .started {
-            font-size: 12px;
-        }
-    }
-}
-@media (max-width: 368px) {
-    .container {
-        .yahz {
-            margin-top: 260px;
+            font-size: 15px;
         }
     }
 }
@@ -764,32 +640,18 @@ body {
         .sell {
             font-size: 20px; background-size: 15px; background-position-x: 85px; background-position-y: 28px;
         }
-        .nogo {
-            margin-right: -131px;
-        }
-        .started {
-            font-size: 11px;
-            padding: 7px 21px 8px 20px;
-        }
 }
 }
 @media (max-width: 348px) {
     .container {
-        .sell {
-            margin-top: 28px;
-        }
-        .signup { 
-            margin-top: -24px; margin-left: -50px; margin-right: 5px;
-        }
-        .login { 
-            margin-left:  0px; margin-top: -15px;
+        .started {
+            font-size: 13px;
         }
         .nogo { 
-            max-width: 284px; margin-top: -145px; max-height: 160px;
-            margin-right: -34px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+            max-width: 305px;
         }
         .yahz {  margin-left: 3px;
-            margin-top: 200px;
+            margin-top: 330px;
             max-width: 285px;
             height: 165px;
         }
@@ -843,35 +705,30 @@ body {
         }
     }
 }
-
-@media (max-width: 333px) {
-    .container {
-        .sell {
-            font-size: 15px; background-position-x: 65px; background-size: 10px; background-position-y: 21px;
-        }
-    }
-}
 @media (max-width: 315px) {
     .container {
+        .signup { 
+            margin-left: -47px; margin-top: -15px;
+        }
+        .login {
+            margin-left: 140px; margin-top: -55px;
+        }
         .started {
             font-size: 11px;
             padding: 7px 10px 8px 10px;
         }
         .nogo {
-            max-height: 190px; margin-top: -145px; max-height: 170px;
-            margin-right: -65px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+             margin-left: -175px; 
         }
     }
 }
 @media (max-width: 303px) {
     .container {
         .signup { 
-            font-size: 13px;
-            margin: -55px 0px 0px 40px;
+            margin-left: -47px; margin-top: -15px;
         }
         .login {
-            font-size: 13px;
-            margin-left: 135px; margin-right: 0px; margin-top: -85px;
+            margin-left: 140px; margin-top: -55px;
         }
         .sell {
             margin-top:  0px;
@@ -881,34 +738,21 @@ body {
 @media (max-width: 296px) {
     .container {
         .nogo {
-            max-height: 180px;
-            margin-top: -145px;
-            margin-right: -84px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+            max-height: 220px;
         }
     }
 }
 @media (max-width: 277px) {
     .container {
-        .nogo {
-            margin-top: -145px;
-            max-height: 170px;
-            margin-right: -104px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
+        .sell {
+            background-position-x: 85px; background-position-y: 48px;
         }
-    }
+}
 }
 @media (max-width: 274px) {
     .container {
-        .sell {
-            background-position-x: 65px; background-size: 10px; background-position-y: 38px;
-        }
-        .nogo {
-            margin-top: -145px;
-            max-height: 160px;
-            max-width: 220px;
-            margin-right: -45px; margin-top: 10px; margin-left: 0px; margin-bottom: 20px;
-        }
-        .yahz {  margin-left: 3px;
-            margin-top: 200px;
+        /* .yahz {  margin-left: 3px;
+            margin-top: 300px;
             max-width: 221px;
             height: 135px;
         }
@@ -959,7 +803,7 @@ body {
         .podsvech3,
         .podsvech4  { margin: 83px -98px 0px -60px;
             font-size: 6px;
-        }
+        } */
     }
 }
 .burger {
