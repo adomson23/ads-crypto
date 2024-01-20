@@ -2,13 +2,12 @@
 body {
     background: #000116;
     font-family: 'Lato';
-    max-height: 1380px;
 }
 .container {
+    max-height: 1380px;
     margin: 0px auto;
     padding: 0px 20px;
 }
-@media (max-height: 1380px) {
     .container {
         .nogo {
             margin-left: 400px;
@@ -21,7 +20,7 @@ body {
             margin-top: 180px;
         }
 }
-}
+
 @media (max-width:1920px) {
     .container {
         .nogo {
