@@ -24,7 +24,7 @@ body {
 @media (max-width:1920px) {
     .container {
         .nogo {
-            margin-left: 0px;
+            margin-left: 270px; position: absolute;
         }
     }
 }
