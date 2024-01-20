@@ -2,13 +2,13 @@
 body {
     background: #000116;
     font-family: 'Lato';
+    max-height: 1380px;
 }
 .container {
-    max-height: 1200px;
     margin: 0px auto;
     padding: 0px 20px;
 }
-@media (max-height: 1200px) {
+@media (max-height: 1380px) {
     .container {
         .nogo {
             margin-left: 400px;
@@ -750,7 +750,7 @@ body {
         }
 }
 }
-@media (max-width: 274px) {
+/* @media (max-width: 274px) {
     .container {
         /* .yahz {  margin-left: 3px;
             margin-top: 300px;
@@ -805,8 +805,8 @@ body {
         .podsvech4  { margin: 83px -98px 0px -60px;
             font-size: 6px;
         } */
-    }
-}
+    /* }
+} */
 .burger {
     cursor: pointer;
     display: none;
