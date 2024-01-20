@@ -4,10 +4,11 @@ body {
     font-family: 'Lato';
 }
 .container {
+    max-height: 1200px;
     margin: 0px auto;
     padding: 0px 20px;
 }
-@media (max-height: 1380px) {
+@media (max-height: 1200px) {
     .container {
         .nogo {
             margin-left: 400px;
