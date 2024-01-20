@@ -21,6 +21,13 @@ body {
         }
 }
 }
+@media (max-width:1920px) {
+    .container {
+        .nogo {
+            margin-left: 150px;
+        }
+    }
+}
 @media (max-width:1274px) {
     .container {
         .signup {
