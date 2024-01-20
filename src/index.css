@@ -4,10 +4,10 @@ body {
     font-family: 'Lato';
 }
 .container {
-    max-height: 1380px;
     margin: 0px auto;
     padding: 0px 20px;
 }
+@media (max-height: 100%) {
     .container {
         .nogo {
             margin-left: 400px;
@@ -20,13 +20,6 @@ body {
             margin-top: 180px;
         }
 }
-
-@media (max-width:1920px) {
-    .container {
-        .nogo {
-            margin-left: 350px;
-        }
-    }
 }
 @media (max-width:1274px) {
     .container {
@@ -751,6 +744,8 @@ body {
 }
 /* @media (max-width: 274px) {
     .container {
+        
+        
         /* .yahz {  margin-left: 3px;
             margin-top: 300px;
             max-width: 221px;
@@ -804,8 +799,8 @@ body {
         .podsvech4  { margin: 83px -98px 0px -60px;
             font-size: 6px;
         } */
-    /* }
-} */
+    /* } */
+/* } */ 
 .burger {
     cursor: pointer;
     display: none;
@@ -889,7 +884,7 @@ body {
     font-weight: 700;
 }
 .sell {
-    margin-top: 40px; margin-right: 69.76px; margin-bottom: 5px;
+    margin-top: 100px; margin-right: 69.76px; margin-bottom: 5px;
     color: #FFF;
     font-size: 50px;
     font-style: normal;
@@ -930,7 +925,7 @@ body {
     background: #2C4EFF;
 }
 .yahz {
-    margin-top: 60px; margin-left: 0px; margin-right: 69.76px; margin-bottom: 10px;
+    margin-top: 150px; margin-left: 0px; margin-right: 69.76px; margin-bottom: 10px;
     padding: 5px 0px 0px 0px;
     width: 1190px;
     height: 248px;
